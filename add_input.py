@@ -1,0 +1,6 @@
+username = input("Введите имя пользователя: ")
+title = input("Введите заголовок заметки: ")
+created_date = input("ДД-ММ-ГГГГ: ")
+print(username)
+print(title)
+print(created_date)
